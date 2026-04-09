@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Lakjeewa Wijebandara Jayasundara
 - 💻 Senior Full Stack Developer (TypeScript / NestJS / React / React Native)
-- 🏡 Hospitality Operator — Residence 212, Kandy
+- 🏡 Hospitality Operator — Residence 212, Kandy - [Residence 212](https://residence212.com/)
 - 🌍 Passionate about building clean, modern, user‑friendly tools
 - 🚀 Currently working on full‑stack projects with React, and Node
 - 📚 Always learning, always shipping
